@@ -1,3 +1,6 @@
-- Unix
-- Bash
-- Git
+- unix
+- bash
+- git
+- html
+- cdd
+-javascript
