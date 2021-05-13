@@ -1,6 +1,9 @@
-- unix
-- bash
-- git
+
+- Unix
+- Bash
+- Git
+- React
 - html
 - cdd
--javascript
+- javascript
+
